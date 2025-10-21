@@ -181,16 +181,11 @@ This experiment successfully demonstrated:
 
 ## 🧾 Author & Credits
 
-**Researcher:** *[Your Name]*  
-**Institution:** *[Your Lab or Department]*  
-**Date:** *[Month, Year]*  
+**Researcher:** *[Md. Sajid Talukder ]*  
+**Institution:** *[Department of Biomedical Engineering, Islamic University,Bangladesh ]*  
+**Date:** *[October , 2025]*  
 **Tools Used:** Nanodrop, Thermocycler, RNA Extraction Kit, cDNA Synthesis Kit, PCR Master Mix  
 
 ---
 
-### 💡 Notes
-- Replace all `images/...` paths with your uploaded images.  
-- You can resize any image by adjusting `width="180"` or `width="400"`.  
-- GitHub will render this beautifully in Markdown view.  
 
----
