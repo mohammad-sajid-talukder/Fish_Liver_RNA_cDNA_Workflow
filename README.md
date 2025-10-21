@@ -51,12 +51,7 @@ This demonstrates proficiency in RNA handling, reverse transcription, and therma
 | Primer Type | Sequence (5’ → 3’) | Function |
 |--------------|-------------------|-----------|
 | **Oligo(dT)** | TTT TTT TTT TTT TTT TTT | Binds to mRNA poly(A) tail for reverse transcription |
-| **Random Hexamer** | NNN NNN | Random priming for total RNA reverse transcription |
-| **Gene-Specific Primer (optional)** | [Your Gene Primer Sequence] | Targeted cDNA synthesis for specific gene |
 
-> 💡 Use Oligo(dT) for mRNA-focused synthesis or Random Hexamer for broader RNA templates.
-
----
 
 ## 🛠 Workflow Gallery
 
