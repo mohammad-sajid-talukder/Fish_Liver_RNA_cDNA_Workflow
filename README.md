@@ -1,4 +1,27 @@
 
+# 🐟 RNA Extraction, cDNA Synthesis & PCR from Fish Liver
+
+**Category:** Molecular Biology | RNA Analysis  
+
+---
+
+## 🔹 Project Overview
+High-quality RNA was extracted from fish liver tissue, quantified, and converted into cDNA for PCR amplification. This workflow demonstrates hands-on experience in molecular biology techniques, including RNA handling, cDNA synthesis, and gene amplification.  
+
+---
+
+## 📝 Protocol (Handwritten / Scanned Copy)
+
+<div align="center">
+
+<img src="images/protocol_handwritten.jpg" width="400"/>
+
+</div>
+
+*💡 Note: Replace `images/protocol_handwritten.jpg` with your uploaded scanned protocol image.*
+
+---
+
 ## 🛠 Workflow Gallery
 
 <div align="center">
@@ -8,23 +31,23 @@
 <tr>
 <td align="center">
 🧪<br>
-**Sample**<br>
+**Sample Collection**<br>
 <img src="images/sample.jpg" width="180"/><br>
-Collected tissue/sample
+Fish liver tissue collected
 </td>
 
 <td align="center">
 🔬<br>
-**Homogenize**<br>
+**Homogenization**<br>
 <img src="images/homogenize.jpg" width="180"/><br>
-Tissue homogenization with reagent
+Tissue homogenized with reagent
 </td>
 
 <td align="center">
 💧<br>
-**Reagent**<br>
+**Reagent Addition**<br>
 <img src="images/reagent.jpg" width="180"/><br>
-Lysis and extraction reagent added
+Lysis/extraction reagents added
 </td>
 </tr>
 
@@ -33,7 +56,7 @@ Lysis and extraction reagent added
 🧴<br>
 **Supernatant Collection**<br>
 <img src="images/supernatant.jpg" width="180"/><br>
-Collection of cleared supernatant
+Cleared supernatant collected
 </td>
 
 <td align="center">
@@ -47,30 +70,30 @@ Evaporation of residual solvents
 📊<br>
 **Concentration Check**<br>
 <img src="images/concentration_check.jpg" width="180"/><br>
-Measured by Nanodrop or fluorimeter
+Measured using Nanodrop
 </td>
 </tr>
 
 <tr>
 <td align="center">
 🔄<br>
-**For cDNA**<br>
+**cDNA Synthesis**<br>
 <img src="images/for_cdna.jpg" width="180"/><br>
-cDNA synthesis preparation
+Reverse transcription of RNA
 </td>
 
 <td align="center">
 🧪<br>
-**Reagent / Primer**<br>
+**Primer / Reagent Addition**<br>
 <img src="images/reagent_primer.jpg" width="180"/><br>
-Added reverse transcription reagents & primers
+Reagents and primers added for PCR
 </td>
 
 <td align="center">
 🎯<br>
 **PCR**<br>
 <img src="images/pcr.jpg" width="180"/><br>
-Amplification of target sequences
+Amplification of target gene sequences
 </td>
 </tr>
 </table>
@@ -82,13 +105,13 @@ Amplification of target sequences
 <!-- Mobile-friendly stacked version -->
 <div align="center">
 
-🧪 **Sample**  
+🧪 **Sample Collection**  
 <img src="images/sample.jpg" width="200"/>
 
-🔬 **Homogenize**  
+🔬 **Homogenization**  
 <img src="images/homogenize.jpg" width="200"/>
 
-💧 **Reagent**  
+💧 **Reagent Addition**  
 <img src="images/reagent.jpg" width="200"/>
 
 🧴 **Supernatant Collection**  
@@ -100,10 +123,10 @@ Amplification of target sequences
 📊 **Concentration Check**  
 <img src="images/concentration_check.jpg" width="200"/>
 
-🔄 **For cDNA**  
+🔄 **cDNA Synthesis**  
 <img src="images/for_cdna.jpg" width="200"/>
 
-🧪 **Reagent / Primer**  
+🧪 **Primer / Reagent Addition**  
 <img src="images/reagent_primer.jpg" width="200"/>
 
 🎯 **PCR**  
@@ -111,3 +134,30 @@ Amplification of target sequences
 
 </div>
 
+---
+
+## ✅ Outcome
+- High-quality RNA successfully extracted from fish liver  
+- cDNA synthesized and PCR amplification confirmed target gene sequences  
+- Workflow demonstrates reproducible molecular biology techniques  
+
+---
+
+## 🎯 Skills Gained
+- Fish liver sample preparation and handling  
+- RNA extraction and purification techniques  
+- RNA quantification using Nanodrop  
+- cDNA synthesis from RNA templates  
+- PCR amplification and optimization  
+- Maintaining RNase-free environment  
+- Laboratory best practices in molecular biology  
+
+---
+
+## 🔗 Project Badges
+
+![RNA](https://img.shields.io/badge/RNA-Extraction-blue?style=for-the-badge&logo=read-the-docs)
+![cDNA](https://img.shields.io/badge/cDNA-Synthesis-green?style=for-the-badge&logo=read-the-docs)
+![PCR](https://img.shields.io/badge/PCR-Amplification-yellow?style=for-the-badge&logo=read-the-docs)
+![Nanodrop](https://img.shields.io/badge/Nanodrop-Quantification-lightgrey?style=for-the-badge&logo=read-the-docs)
+![Molecular-Biology](https://img.shields.io/badge/Molecular_Biology-Skills-orange?style=for-the-badge&logo=read-the-docs)
