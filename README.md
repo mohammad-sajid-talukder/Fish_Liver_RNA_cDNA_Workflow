@@ -10,11 +10,31 @@ Extracted high-quality RNA from fish liver tissue, quantified it using **Nanodro
 
 ---
 
+## 📝 Protocol (Handwritten / Scanned Copy)
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+📝<br>
+**Protocol (Handwritten / Scanned)**<br>
+<img src="images/protocol_handwritten.jpg" width="300"/><br>
+Detailed protocol documented in lab notebook
+</td>
+</tr>
+</table>
+
+</div>
+
+*💡 Note: Replace `images/protocol_handwritten.jpg` with your actual scanned image path.*
+
+---
+
 ## 🛠 Workflow Gallery (Responsive)
 
 <div align="center">
 
-<!-- Desktop: 3-column grid -->
 <table>
 <tr>
 <td align="center">
@@ -63,6 +83,9 @@ Stored at -20°C for downstream experiments
 <!-- Mobile-friendly stacked version -->
 <div align="center">
 
+📝 **Protocol (Handwritten / Scanned)**  
+<img src="images/protocol_handwritten.jpg" width="300"/>
+
 🧪 **Sample Collection**  
 <img src="images/fish_liver_sample.jpg" width="200"/>
 
@@ -79,8 +102,6 @@ Stored at -20°C for downstream experiments
 <img src="images/cdna_storage.jpg" width="200"/>
 
 </div>
-
-*💡 Note: Replace `images/...` with your actual image paths in the repository.*
 
 ---
 
