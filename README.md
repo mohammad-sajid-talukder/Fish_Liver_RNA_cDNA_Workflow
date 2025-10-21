@@ -1,2 +1,101 @@
-# Fish_Liver_RNA_cDNA_Workflow
-Extraction of high-quality RNA from fish liver and synthesis of cDNA for molecular analysis.
+
+# 🐟 RNA Extraction & cDNA Synthesis from Fish Liver
+
+**Category:** Molecular Biology | RNA Analysis  
+
+---
+
+## 🔹 Project Overview
+Extracted high-quality RNA from fish liver tissue, quantified it using **Nanodrop**, and synthesized **cDNA** for downstream molecular applications like PCR and gene expression studies.
+
+---
+
+## 🛠 Workflow Gallery (Responsive)
+
+<div align="center">
+
+<!-- Desktop: 3-column grid -->
+<table>
+<tr>
+<td align="center">
+🧪<br>
+**Sample Collection**<br>
+<img src="images/fish_liver_sample.jpg" width="180"/><br>
+Tissue collected & stored at -80°C
+</td>
+
+<td align="center">
+🧬<br>
+**RNA Extraction**<br>
+<img src="images/rna_extraction.jpg" width="180"/><br>
+Total RNA isolated in RNase-free environment
+</td>
+
+<td align="center">
+📊<br>
+**RNA Quantification**<br>
+<img src="images/nanodrop_rna.jpg" width="180"/><br>
+Measured concentration & purity (A260/A280)
+</td>
+</tr>
+
+<tr>
+<td align="center">
+🔄<br>
+**cDNA Synthesis**<br>
+<img src="images/cdna_synthesis.jpg" width="180"/><br>
+Reverse transcription using random hexamers/oligo(dT)
+</td>
+
+<td align="center">
+❄️<br>
+**cDNA Storage**<br>
+<img src="images/cdna_storage.jpg" width="180"/><br>
+Stored at -20°C for downstream experiments
+</td>
+
+<td></td>
+</tr>
+</table>
+
+</div>
+
+<!-- Mobile-friendly stacked version -->
+<div align="center">
+
+🧪 **Sample Collection**  
+<img src="images/fish_liver_sample.jpg" width="200"/>
+
+🧬 **RNA Extraction**  
+<img src="images/rna_extraction.jpg" width="200"/>
+
+📊 **RNA Quantification**  
+<img src="images/nanodrop_rna.jpg" width="200"/>
+
+🔄 **cDNA Synthesis**  
+<img src="images/cdna_synthesis.jpg" width="200"/>
+
+❄️ **cDNA Storage**  
+<img src="images/cdna_storage.jpg" width="200"/>
+
+</div>
+
+*💡 Note: Replace `images/...` with your actual image paths in the repository.*
+
+---
+
+## ✅ Outcome
+- High-quality RNA successfully extracted  
+- Reliable cDNA synthesized for PCR & gene expression studies  
+
+---
+
+## 🎯 Skills Gained
+- RNA extraction & handling  
+- RNA quantification using Nanodrop  
+- Reverse transcription & cDNA synthesis  
+- Maintaining RNase-free conditions  
+- Laboratory best practices in molecular biology  
+
+---
+
