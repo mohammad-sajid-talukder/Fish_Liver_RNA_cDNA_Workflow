@@ -156,8 +156,8 @@ Amplification of target gene sequences
 
 ## 🔗 Project Badges
 
-![RNA](https://img.shields.io/badge/RNA-Extraction-blue?style=for-the-badge&logo=read-the-docs)
+![RNA](https://img.shields.io/badge/green-the-docs)
 ![cDNA](https://img.shields.io/badge/cDNA-Synthesis-green?style=for-the-badge&logo=read-the-docs)
-![PCR](https://img.shields.io/badge/PCR-Amplification-yellow?style=for-the-badge&logo=read-the-docs)
-![Nanodrop](https://img.shields.io/badge/Nanodrop-Quantification-lightgrey?style=for-the-badge&logo=read-the-docs)
-![Molecular-Biology](https://img.shields.io/badge/Molecular_Biology-Skills-orange?style=for-the-badge&logo=read-the-docs)
+![PCR](https://img.shields.io/badge/PCR-Amplification-greenbadgee=for-the-badge&logo=read-the-docs)
+![Nanodrop](https://img.shields.io/badge/Nanodrop-Quantification-lightgNanodrop-Quantification-green-the-docs)
+![Molecular-Biology](https://img.shields.io/badge/Molecular_Biology-Skills-orange?style=foBiology-Skills-green-the-dofor-the-badge
